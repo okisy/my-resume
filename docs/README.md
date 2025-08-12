@@ -4,13 +4,8 @@
 
 |key|value|
 |---|---|
-|氏名||
-|生年月日||
-|Twitter||
-|Qiita||
-|note||
-|Zenn||
-|SpeakerDeck||
+|氏名|前沖　翔（Sho Maeoki）|
+|LinkedIn|https://www.linkedin.com/in/sho-maeoki-38855b21a/|
 
 ---
 
