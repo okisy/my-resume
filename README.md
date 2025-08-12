@@ -1,4 +1,4 @@
-# { name } resume
+# { Sho Maeoki } resume
 
 ## Sample
 
