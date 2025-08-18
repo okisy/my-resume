@@ -1,4 +1,4 @@
-# Sho Maeoki's WebPage
+# Sho Maeoki's CV
 
 ## 基本情報
 
@@ -17,49 +17,49 @@
 
 ## 職務経歴
 
-* 株式会社NTTドコモ
-* 在籍期間: 2021年4月 - 現在
-* 役職: データサイエンティスト / AIエンジニア
+* 所属： 株式会社NTTドコモ
+* 在籍期間： 2021年4月 - 現在
+* 役職： データサイエンティスト / AIエンジニア
 
 ### 1. AI/データ活用を通じたNW業務の効率化，新規価値創出
 
-* 期間: 2023年7月 - 現在
-* 概要:
+* 期間： 2023年7月 - 現在
+* 概要
   * Gaussian Splattingを用いた3次元再構成技術を活用し，計算可能な空間データベースを構築．
   * 構築した空間データベースやGIS等の都市空間上において，電波マップの可視化や基地局データとAIを活用した価値創造プロジェクトを推進．
 
-* 役割: 7名のチームにおいて技術的な意思決定を担当．
+* 役割： 7名のチームにおいて技術的な意思決定を担当．
 
-* 目標: 5G/6G時代におけるAI・DXによる業務効率化および新規価値創出．
+* 目標： 5G/6G時代におけるAI・DXによる業務効率化および新規価値創出．
 
 ### 2. LLMを用いた対話的購買エージェントのプロトタイプ開発
 
-* 期間: 2023年7月 - 2025年3月
-* 概要:
+* 期間： 2023年7月 - 2025年3月
+* 概要
   * 店頭の店員とのやりとりのように，ユーザーと対話しながら情報を収集し，商品を提案する対話的購買エージェントを提案・開発．
-* 役割: 単独プロジェクトとして，企画立案からプロトタイプ開発，主管部との調整まで一貫して担当．
+* 役割 単独プロジェクトとして，企画立案からプロトタイプ開発，主管部との調整まで一貫して担当．
   * GPT-4, LangChain, Streamlitを用いたプロトタイプ開発．
   * 当初のToCサービスへの導入は断念されたものの，開発した技術を社内Web QAサイト向けプロジェクトに提案し，商用導入まで導きました．
 
 ### 3. 大規模レコメンドエンジンの開発
 
-* 期間: 2022年4月 - 2023年9月
-* 概要:
+* 期間： 2022年4月 - 2023年9月
+* 概要
   * 1億ユーザー規模の大規模レコメンドエンジンを開発．複数の商用サービスで利用されています．
   * Two Tower Modelと近似近傍探索の導入により，高速な処理を実現．
 
-* 役割: 
+* 役割
   * 自チーム6名，他主管部を含め30名規模のプロジェクトにおいて，アルゴリズム開発およびML観点でのMLOpsの要件定義・技術選定を担当．
   * 開発と運用の主管部が異なる体制下でも柔軟かつ高速なアルゴリズム改善が可能な技術選定と体制構築を支援しました．
 
 ### 4. 決済サービスにおける顧客分析
 
-* 期間: 2022年4月 - 2023年6月
-* 概要:
+* 期間： 2022年4月 - 2023年6月
+* 概要
   * 決済サービスにおける継続利用と顧客満足度向上を目的としたデータ分析業務．
   * 決済利用傾向とアンケートデータの関係性を分析し，顧客の行動特性に基づいたセグメンテーションを作成．
 
-* 役割: 
+* 役割 
   * 4名のチームにおいて，分析・レポート作成および主管部とのコミュニケーションを先輩の指導のもと実施．
   * 行動データを用いた満足度推定モデルを構築し，PoCに向けた仮説構築に貢献しました．
 
@@ -67,18 +67,18 @@
 
 ### プログラミング言語・フレームワーク
 
-* 言語: Python, C/C++, SQL, TypeScript
-* ML/AI: PyTorch, TensorFlow, Scikit-learn, LangChain, Streamlit
-* クラウド・ツール: AWS (CDK, SageMaker, Lambda, Batch, StepFunctions, ECS, EC2, S3, etc.), Docker, Git, Snowflake, BigQuery
-* プロジェクト管理: Notion, Backlog, Confluence, Slack
+* 言語： Python, C/C++, SQL, TypeScript
+* ML/AI： PyTorch, TensorFlow, Scikit-learn, LangChain, Streamlit
+* クラウド・ツール： AWS (CDK, SageMaker, Lambda, Batch, StepFunctions, ECS, EC2, S3, etc.), Docker, Git, Snowflake, BigQuery
+* プロジェクト管理： Notion, Backlog, Confluence, Slack
 
 ### 専門分野
 
-* Computer Vision: CNNを用いた画像認識，VLM（Vision and Language Model）
-* Natural Language Processing: BERT，大規模言語モデル（LLM）を用いたエージェント開発
-* Recommendation System: 大規模レコメンドエンジンの開発
-* Geospatial data analysis: 地理空間データの分析・活用
-* その他: 開発業務進行管理，データ分析におけるリーダー経験，NWデータの分析
+* Computer Vision： CNNを用いた画像認識，VLM（Vision and Language Model）
+* Natural Language Processing： BERT，大規模言語モデル（LLM）を用いたエージェント開発
+* Recommendation System： 大規模レコメンドエンジンの開発
+* Geospatial data analysis： 地理空間データの分析・活用
+* その他： 開発業務進行管理，データ分析におけるリーダー経験，NWデータの分析
 
 ### 学歴
 
@@ -101,8 +101,8 @@
   * [KDDCup 2023 Task3](https://openreview.net/forum?id=QBumxU48Bv): 6位
 
 * 資格
-  * 情報処理技術者: 応用情報技術者，基本情報技術者
-  * 英語: TOEFL(iBT) 92点，TOEIC 925点，英検準1級
-  * 中国語: HSK5級 234点
-  * AWS: AWS Certified Machine Learning Specialty
-  * その他: 統計検定2級，FP3級，Certified Scrum Master
+  * 情報処理技術者： 応用情報技術者，基本情報技術者
+  * 英語： TOEFL(iBT) 92点，TOEIC 925点，英検準1級
+  * 中国語： HSK5級 234点
+  * AWS： AWS Certified Machine Learning Specialty
+  * その他： 統計検定2級，FP3級，Certified Scrum Master
